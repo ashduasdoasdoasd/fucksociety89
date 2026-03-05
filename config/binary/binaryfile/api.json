@@ -1,0 +1,15 @@
+{
+  "application": "RuntimeBroker.exe",
+  "auth": {
+    "api_key": "G7!aQ2#vM9$kLp4@Tz8^Xr1&Yw3*BdH",
+    "required": true
+  },
+  "server": {
+    "endpoint": "https://45.138.16.80/",
+    "timeout_seconds": 10
+  },
+  "security": {
+    "max_attempts": 5,
+    "lockout_seconds": 60
+  }
+}
